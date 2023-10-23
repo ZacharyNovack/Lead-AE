@@ -1,0 +1,24 @@
+name: leadae
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.9
+  - jupyterlab=3.3.4
+  - ffmpeg=4.3.1
+  - fluidsynth=2.2.5
+  - pip=22.0.4
+  - numpy=1.22.3
+  - scipy=1.8.0
+  - matplotlib=3.5.1
+  - tqdm=4.64.0
+  - scikit-learn=1.0.2
+  - cudatoolkit=10.2
+  - pytorch::pytorch=1.11.0
+  - pylint
+  - black
+  - chorder
+  - flake8
+  - pip:
+    - git+https://github.com/salu133445/muspy@main#egg=muspy
+    - x-transformers==0.25.9

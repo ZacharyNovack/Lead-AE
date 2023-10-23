@@ -1,4 +1,7 @@
 # Lead-AE
+
+![Lead-AE](leadae.png)
+
 This repository contains the official implementation of [Unsupervised Lead Sheet Generation via Semantic Compression](https://arxiv.org/abs/2310.10772). If you find this repository useful or use this code in your research, please cite the following paper: 
 
 > Zachary Novack, Nikita Srivatsan, Taylor Berg-Kirkpatrick, and Julian McAuley. Unsupervised Lead Sheet Generation via Semantic Compression. 2023.
